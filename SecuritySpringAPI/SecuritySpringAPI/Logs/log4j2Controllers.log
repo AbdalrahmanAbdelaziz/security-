@@ -1,0 +1,1 @@
+2024-05-01 14:31:50,616 ERROR c.f.s.c.JwtAuthenticationFilter [http-nio-8080-exec-4] JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
